@@ -24,3 +24,4 @@ A skill's helper scripts sit in its `scripts/` directory; run them by path
 | `latex-page-fit` | bring a LaTeX document within a page limit without losing content or breaking format rules (portable) |
 | `latex-memo` | write, change and rebuild a memo: generated figures and numbers, provenance, branch → build → checks → merge (portable; project settings in the project's § Memos) |
 | `guided-pr-review` | review a PR you made with the user, one finding or decision at a time, then apply the outcomes and update the PR (portable) |
+| `hfss` | run Ansys HFSS/AEDT headless: reuse existing exports, private hashed copies, the non-graphical launch recipe, report-only antenna-parameter export, done markers over exit codes (portable; host and budget in the project's settings) |
